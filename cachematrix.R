@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## The inverse of a matrix is computed. However a cache is also used to store the inverse of the matrix.
+##  When the inverse is again required instead of recomputing it, it is accessed from the cache.
 
 ## This function creates a special Matrix object, which is of the class list and has 4 items within it. These 4 items
 ## are functions which do the following 1
